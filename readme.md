@@ -9,9 +9,6 @@
 It is more preferable to run or open the jupyter notebook because it contains several
 visualizations of different parameters
 
-<b>images-plots</b>: A directory with 4 visualization plots that
-are discussed thoroughly in the .pdf.
-
 <b>requirements</b>: A txt file with the libraries needed in order to run the notebook or the .py file.
 
 ## Running the notebook
@@ -22,6 +19,6 @@ several runs have already been run, so the plots are already visible.
 
 <hr />
 
-Files such as the .pdf and the data have not been included in this
+Files such as the .pdf, the plots and the data have not been included in this
 repository.
 
